@@ -1,7 +1,7 @@
 "# Weather-App" 
 
 Install:
-Node.js
-Express
-Axios
+* Node.js
+* Express
+* Axios
 
