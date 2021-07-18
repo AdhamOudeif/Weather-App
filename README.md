@@ -1,2 +1,6 @@
 "# Weather-App" 
-Used Google API and Weather Stack API
+Install:
+Node.js
+Express
+Axios
+
